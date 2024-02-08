@@ -1,0 +1,1 @@
+ F:\\Project\ Coffee\\coffeeShop-main\\.dart_tool\\flutter_build\\37a474144d4fa233ee4fc69821b488d7\\native_assets.yaml: 
